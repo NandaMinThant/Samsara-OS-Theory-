@@ -27,7 +27,18 @@ Welcome to the **Saṃsāra OS** – an open-source project blending spiritual w
 
 ## 🧠 Core System Diagram
 ![Core](./images/samsara_core_diagram.png)
-
+Samsara-OS-Theory/
+├── core/
+│   └── samsara_core.py
+├── datasets/
+│   └── sample_karma_log.json
+├── images/
+│   ├── samsara_core_diagram.png
+│   ├── logic_layer_diagram.png
+│   ├── ai_integration_model.png
+│   └── ai_training_dataset.png
+├── LICENSE
+└── README.md
 ---
 
 ## 🧩 Logic Layer Architecture
