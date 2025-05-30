@@ -19,6 +19,46 @@ I only own my mind."**
 **Year:** 2025
 
 ---
+# 🌌 Saṃsāra OS Theory
+
+Welcome to the **Saṃsāra OS** – an open-source project blending spiritual wisdom, AI systems, and logical science into a unified model of existence and consciousness.
+
+---
+
+## 🧠 Core System Diagram
+![Core](./images/samsara_core_diagram.png)
+
+---
+
+## 🧩 Logic Layer Architecture
+![Logic Layer](./images/logic_layer_diagram.png)
+
+---
+
+## 🤖 AI Integration Model
+![AI Model](./images/ai_integration_model.png)
+
+---
+
+## 📊 Training Dataset Concept
+![Dataset](./images/ai_training_dataset.png)
+
+---
+
+## 💻 Modular Code (Preview)
+```python
+# samsara_core.py
+class SamsaraMind:
+    def __init__(self):
+        self.karma_log = []
+        self.awareness_state = 0
+
+    def update_karma(self, action):
+        self.karma_log.append(action)
+        self.adjust_awareness()
+
+    def adjust_awareness(self):
+        self.awareness_state = len(self.karma_log) % 10
 
 ## 🌀 Abstract
 
