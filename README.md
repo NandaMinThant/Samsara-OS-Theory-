@@ -1,5 +1,15 @@
 # Samsara-OS-Theory-
-A scientific-philosophical framework that models the Saṃsāra cycle as an operating system.   Author: Nanda Min Thant
+A scientific-philosophical framework that models the Saṃsāra cycle as an operating system.   Author: Nanda Min Thant## 🌌 What is Saṃsāra OS?
+
+---
+
+### ✨ Foundational Belief
+
+> **"I am only a ripple of influence.  
+I do not own my life.  
+I do not own my body.  
+I only own my mind."**  
+> — Nanda Min Thant
 
 # Saṃsāra OS Theory
 
